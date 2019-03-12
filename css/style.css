@@ -1,0 +1,17 @@
+.content{
+  width:80%;
+  margin:auto;
+}
+.content .subContent{
+  position:relative;
+  width:45%;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding:10px;
+}
+.content .left{
+  float:left;
+}
+.content .right{
+  float:right;
+}
